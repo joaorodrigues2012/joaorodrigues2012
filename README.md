@@ -1,6 +1,12 @@
 # Olá, me chamo Victor! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+ <div>
+<img align="right" width="300" height="200" src="https://github.com/joaorodrigues2012/joaorodrigues2012/assets/37009151/d85cf611-cd69-4b6d-91da-433e83deb4f2.jpg" alt="Eu, o viciado em café">
+</div>
+
+Olá, eu sou um desenvolvedor PHP apaixonado por tecnologia e programação. Com anos de experiência em desenvolvimento web, estou sempre buscando novas formas de criar soluções inovadoras e eficientes para projetos de todos os tamanhos.
+
 - 🔭 Hoje Trabalho com Desenvolvedor PHP ...
 - 🌱 Estudando React e TypeScript ...
 - 💬 Pergunte-me sobre Html Css e JavaScript...
@@ -11,7 +17,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodrigues2012&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorodrigues2012&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
+
+
  <div style="display: inline_block"><br>
    <img align="center" alt="Dev-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
