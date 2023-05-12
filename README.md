@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
  <div>
-<img align="right" width="300" height="200" src="https://github.com/joaorodrigues2012/joaorodrigues2012/assets/37009151/d85cf611-cd69-4b6d-91da-433e83deb4f2.jpg" alt="Eu, o viciado em café">
+<img align="right" width="280" height="180" src="https://github.com/joaorodrigues2012/joaorodrigues2012/assets/37009151/d85cf611-cd69-4b6d-91da-433e83deb4f2.jpg" alt="Eu, o viciado em café">
 </div>
 
 Olá, eu sou um desenvolvedor PHP apaixonado por tecnologia e programação. Com anos de experiência em desenvolvimento web, estou sempre buscando novas formas de criar soluções inovadoras e eficientes para projetos de todos os tamanhos.
